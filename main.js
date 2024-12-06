@@ -8,7 +8,7 @@ const desiredCryptos = ["TON", "BTC", "LTC", "TRX", "USDT"];
 const iconMap = {
     BTC: "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
     LTC: "https://cryptologos.cc/logos/litecoin-ltc-logo.png",
-    TRX: "https://crypto.ru/wp-content/uploads/trxjpg.png",
+    TRX: "trxjpg.png",
     USDT: "https://cryptologos.cc/logos/tether-usdt-logo.png",
     TON: "https://cryptologos.cc/logos/toncoin-ton-logo.png" 
 };
